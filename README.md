@@ -6,7 +6,7 @@ The Attic's Discord Server. [Download Full Pack](https://drive.google.com/file/d
 Update coming soon, want a specific mod to be added? Contact me by Discord, text or email.  
 
 ## The West Street Update
-> In rembrence of the West Street Bombings.
+> In remembrance of the West Street Bombings.
 ### Mods
 * BetterFPS
 * CodeChickenCore
