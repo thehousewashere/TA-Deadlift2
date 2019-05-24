@@ -1,6 +1,6 @@
 ![alt text](https://github.com/thehousewashere/TA-Deadlift2/blob/master/1.03.png "Server Icon")
 # TA-Deadlift2
-The Attic's Discord Server.
+The Attic's Discord Server. [Download Full Pack](https://www.google.com "Just fucking click the link")
 
 ## News
 Update coming soon, want a specific mod to be added? Contact me by Discord, text or email.  
@@ -13,5 +13,5 @@ Update coming soon, want a specific mod to be added? Contact me by Discord, text
 * Minenautica 
 * TConsruct 
 
-Download here >
+[Download update](https://github.com/grghreth)
 
