@@ -1,12 +1,13 @@
+![alt text](https://github.com/thehousewashere/TA-Deadlift2/blob/master/1.03.png "Server Icon")
 # TA-Deadlift2
 The Attic's Discord Server.
 
-# News
+## News
 Update coming soon, want a specific mod to be added? Contact me by Discord, text or email.  
 
-# The West Street Update
+## The West Street Update
 > In rembrence of the West Street Bombings.
-## Mods
+### Mods
 * BetterFPS
 * CodeChickenCore
 * Minenautica 
